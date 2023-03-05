@@ -1,0 +1,5 @@
+The clients that ordered more than 2 and the value of the order was higher than 10:
+Clientul 2
+Pretul comenzii : 31 Pretul specificat :10
+Pretul comenzii : 66 Pretul specificat :10
+Pretul comenzii : 67 Pretul specificat :10

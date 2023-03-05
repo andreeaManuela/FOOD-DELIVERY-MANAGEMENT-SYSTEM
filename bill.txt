@@ -1,0 +1,7 @@
+Product0:"""Blanketed"" Eggplant "
+Product1:"""Blanketed"" Eggplant "
+Product2:"""Blanketed"" Eggplant "
+Product3:"Cauliflower ""Bistecche"" with Pancetta and Caper Berries "
+Product4:"Cauliflower ""Bistecche"" with Pancetta and Caper Berries "
+Product5:"Hershey's ""Perfectly Chocolate"" Chocolate Cake "
+Total price:369
